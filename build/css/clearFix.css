@@ -1,0 +1,10 @@
+.clearFix:after {
+  content: '';
+  display: table;
+  clear: both;
+}
+.clearFix:before {
+  content: '';
+  display: table;
+  clear: both;
+}
